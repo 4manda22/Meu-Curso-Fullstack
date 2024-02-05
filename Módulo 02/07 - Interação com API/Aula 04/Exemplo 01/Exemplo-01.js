@@ -5,23 +5,34 @@ async function buscar(){
     let produtos = await resposta.json()
    // alert(produtos[1].descricao)
     //console.log(produtos[1].descriao) 
-/*
-    document.body.innerHTML += produtos[1].descricao + "<br>"
-    document.body.innerHTML += produtos[2].descricao + "<br>"
-    document.body.innerHTML += produtos[3].descricao + "<br>"
-    document.body.innerHTML += produtos[4].descricao + "<br>"
-    document.body.innerHTML += produtos[5].descricao + "<br>"
-    document.body.innerHTML += produtos[6].descricao + "<br>"
-    document.body.innerHTML += produtos[7].descricao + "<br>"
-    document.body.innerHTML += produtos[8].descricao + "<br>"
-    document.body.innerHTML += produtos[9].descricao + "<br>"
-    */
 
+
+    //document.body.innerHTML += produtos[produto].nome + "<br>"
     for(let produto in produtos){
-        alert(produto)
-    document.body.innerHTML += produtos[produto].descricao + "<br>"
+        document.body.innerHTML += `
+        <div>
+            O nome do produto é ${produtos[produto].nome}
+        </div>
+        `
+        document.body.innerHTML += `
+        <div>
+            Celular de última geração
+        </div>
+        <br>
+        `
+        document.body.innerHTML += `
+        <div>
+        preço : Apartir de R$ 7.731,00
+        </div>
+        <br>
+        `
+        document.body.innerHTML += `
+        <div>
+        Frete GRÁTIS
+        </div>
+        <br>
+        `
     }
-
-
 }
 buscar()
+ 
