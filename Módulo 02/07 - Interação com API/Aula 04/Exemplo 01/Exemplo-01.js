@@ -5,7 +5,8 @@ async function buscar(){
     let produtos = await resposta.json()
    // alert(produtos[1].descricao)
     //console.log(produtos[1].descriao) 
-    
-    document.body.innerHTML = produtos[1].descricao
+
+    document.body.innerHTML += produtos[1].descricao
+    document.body.innerHTML += produtos[2].descricao
 }
 buscar()
