@@ -5,8 +5,22 @@ async function buscar(){
     let produtos = await resposta.json()
    // alert(produtos[1].descricao)
     //console.log(produtos[1].descriao) 
-
+/*
     document.body.innerHTML += produtos[1].descricao + "<br>"
     document.body.innerHTML += produtos[2].descricao + "<br>"
+    document.body.innerHTML += produtos[3].descricao + "<br>"
+    document.body.innerHTML += produtos[4].descricao + "<br>"
+    document.body.innerHTML += produtos[5].descricao + "<br>"
+    document.body.innerHTML += produtos[6].descricao + "<br>"
+    document.body.innerHTML += produtos[7].descricao + "<br>"
+    document.body.innerHTML += produtos[8].descricao + "<br>"
+    document.body.innerHTML += produtos[9].descricao + "<br>"
+    */
+
+    for(i=0;i<produtos.length;i++){
+    document.body.innerHTML += produtos[i].descricao + "<br>"
+    }
+
+
 }
 buscar()
