@@ -6,7 +6,7 @@ async function buscar(){
    // alert(produtos[1].descricao)
     //console.log(produtos[1].descriao) 
 
-    document.body.innerHTML += produtos[1].descricao
-    document.body.innerHTML += produtos[2].descricao
+    document.body.innerHTML += produtos[1].descricao + "<br>"
+    document.body.innerHTML += produtos[2].descricao + "<br>"
 }
 buscar()
