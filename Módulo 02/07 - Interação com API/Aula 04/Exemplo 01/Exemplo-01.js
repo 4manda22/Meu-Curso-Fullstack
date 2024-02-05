@@ -17,8 +17,9 @@ async function buscar(){
     document.body.innerHTML += produtos[9].descricao + "<br>"
     */
 
-    for(i=0;i<produtos.length;i++){
-    document.body.innerHTML += produtos[i].descricao + "<br>"
+    for(let produto in produtos){
+        alert(produto)
+    document.body.innerHTML += produtos[produto].descricao + "<br>"
     }
 
 
