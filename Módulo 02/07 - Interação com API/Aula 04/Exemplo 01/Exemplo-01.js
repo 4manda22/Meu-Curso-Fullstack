@@ -13,25 +13,9 @@ async function buscar(){
         <div>
             O nome do produto é ${produtos[produto].nome}
         </div>
-        `
-        document.body.innerHTML += `
-        <div>
-            Celular de última geração
-        </div>
         <br>
         `
-        document.body.innerHTML += `
-        <div>
-        preço : Apartir de R$ 7.731,00
-        </div>
-        <br>
-        `
-        document.body.innerHTML += `
-        <div>
-        Frete GRÁTIS
-        </div>
-        <br>
-        `
+
     }
 }
 buscar()
