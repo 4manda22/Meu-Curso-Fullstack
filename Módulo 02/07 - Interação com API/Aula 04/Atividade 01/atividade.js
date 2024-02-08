@@ -7,7 +7,7 @@ async function buscar(){
 
     for (let produto in produtos ){
         let div = document.body.innerHTML +=` 
-            <div class='card'>
+        <div class='card'>
                 <img 
                 src="${produtos[produto].img}" 
                 alt="Não renderizou" 
@@ -29,7 +29,12 @@ async function buscar(){
                           R$ ${produtos[produto].valorSemDesconto}
                         </b>
                     </span>
-                
+
+                    <span class="valorCom">
+                        <b>
+                          R$ ${produtos[produto].valorComDesconto}
+                        </b>
+                    </span>
                 <p>
                     ${produtos[produto].tipoEntrega}
                 </p>
