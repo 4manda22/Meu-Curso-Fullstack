@@ -1,6 +1,6 @@
 [
    {
-    "img": "ip15.jpg",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png",
     "descrição" : "Iphone 15 Pro Max",
     "valorSemDesconto": "R$ 7.469,10",
     "tipoEntrega": "frete GRÁTIS"
@@ -12,6 +12,7 @@
     "valorSemDesconto": "R$ 7.299,00",
     "tipoEntrega": "frete GRÁTIS"
     },
+
     {
     "img": "ip14.jpg",
     "descrição": "Apple MacBook Pro 16",
