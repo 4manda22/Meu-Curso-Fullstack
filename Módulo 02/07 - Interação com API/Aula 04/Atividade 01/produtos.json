@@ -3,20 +3,23 @@
     "img": "ip16.jpg",
     "descrição" : "Iphone 15 Pro Max",
     "valorSemDesconto": "R$ 7.469,10",
-    "tipoEntrega": "frete GRÁTIS"
+    "tipoEntrega": "frete GRÁTIS",
+    "valorComDesconto": "R$ 5.599,00"
     },
 
     {
     "img":"ip15.jpg",
     "descrição": "Notebook:Avell A52 ION",
     "valorSemDesconto": "R$ 7.299,00",
-    "tipoEntrega": "frete GRÁTIS"
+    "tipoEntrega": "frete GRÁTIS",
+    "valorComDesconto": "R$ 6.599,00"
     },
 
     {
     "img": "ip14.jpg",
     "descrição": "Apple MacBook Pro 16",
     "valorSemDesconto":"R$ 38.719,00",
-    "tipoEntrega":"frete GRÁTIS"
+    "tipoEntrega":"frete GRÁTIS",
+    "valorComDesconto": "R$ 25.599,00"
     }
 ]
