@@ -10,9 +10,6 @@ body{
     flex-direction: column;
 }
 
-.card{
-    background-color: rgb(212, 228, 228);
-}
 h2{
     font-style: italic;
 }
