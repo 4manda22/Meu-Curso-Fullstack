@@ -44,14 +44,5 @@
         "valorSemDesconto":"2.500",
         "valorComDesconto":"1.100",
         "tipoEntrega":"frete GRÁTIS"
-    },
-     
-    {
-        "nome":"televisao.jpg",
-        "descricao":"Televisao top de linha",
-        "valorSemDesconto":"2.550",
-        "valorComDesconto": "2.300",
-        "tipoEntrega":"frete GRÁTIS"
-        
     }
 ]
