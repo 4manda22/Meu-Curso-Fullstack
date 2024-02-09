@@ -26,25 +26,25 @@
     "valorSemDesconto":"38.719",
     "valorComDesconto":"POR 25.599",
     "tipoEntrega":"frete GRÁTIS"
-     },
+    },
 
-     {
+    {
         "img":"fogao.jpg",
         "nome": "Fogão",
         "descricao": "fogao top de linha",
         "valorSemDesconto":"2.250",
         "valorComDesconto":"1.500",
         "tipoEntrega":"frete GRÁTIS"
-     },
+    },
      
-     {
+    {
         "img":"gela.jpg",
         "nome":"Geladeira",
         "descricao":"top de linha",
         "valorSemDesconto":"2.500",
         "valorComDesconto":"1.100",
         "tipoEntrega":"frete GRÁTIS"
-     },
+    },
      
     {
         "nome":"tv.jpg",
