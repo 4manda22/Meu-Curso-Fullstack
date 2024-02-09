@@ -26,7 +26,7 @@
     "valorSemDesconto":"38.719",
     "valorComDesconto":"POR 25.599",
     "tipoEntrega":"frete GRÁTIS"
-     }
+     },
 
      {
         "img":"fogao.jpg",
@@ -35,7 +35,7 @@
         "valorSemDesconto":"2.250",
         "valorComDesconto":"1.500",
         "tipoEntrega":"frete GRÁTIS"
-     }
+     },
      
      {
         "img":"gela.jpg",
@@ -44,14 +44,14 @@
         "valorSemDesconto":"2.500",
         "valorComDesconto":"1.100",
         "tipoEntrega":"frete GRÁTIS"
-     }
+     },
      
-     {
+    {
         "nome":"tv.jpg",
         "descricao":"Televisao top de linha",
         "valorSemDesconto":"2.550",
         "valorComDesconto": "2.300",
         "tipoEntrega":"frete GRÁTIS"
         
-     }
+    }
 ]
