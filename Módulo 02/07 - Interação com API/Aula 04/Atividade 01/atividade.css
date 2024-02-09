@@ -24,13 +24,11 @@ header{
     border:2px solid #b85151;
     width: fit-content ;
     display: flex ;
-    flex-direction: column;
-    align-items: center;
+   align-items: center;
     padding: 0px 20px;
 }
 
 footer{
-    background-color:rgb(211, 158, 158) ;
     text-align: center;
     padding: 10px 0;
     position:fixed;
