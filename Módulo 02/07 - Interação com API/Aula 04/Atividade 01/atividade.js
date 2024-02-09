@@ -26,13 +26,13 @@ async function buscar(){
                 <div class="h1">
                     <span class="valorSem">
                         <b>
-                           ${produtos[produto].valorSemDesconto}
+                          R$ ${produtos[produto].valorSemDesconto}
                         </b>
                     </span>
 
                     <span class="valorCom">
                         <b>
-                           ${produtos[produto].valorComDesconto}
+                          R$ ${produtos[produto].valorComDesconto}
                         </b>
                     </span>
                 <p>
