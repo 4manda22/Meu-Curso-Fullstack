@@ -3,8 +3,8 @@
     "img": "ip15.jpg",
     "nome": "Iphone",
     "descricao" :"15 Pro Max",
-    "valorSemDesconto":"7.469,10",
-    "valorComDesconto":"POR 5.599,00",
+    "valorSemDesconto":"R$ 7.469,10",
+    "valorComDesconto":"POR R$ 5.599,00",
     "tipoEntrega": "frete GRÁTIS"
     
     },
@@ -13,8 +13,8 @@
     "img":"ip16.jpg",
     "nome": "Notebook",
     "descricao":"Avell A52 ION",
-    "valorSemDesconto":"7.299,00",
-    "valorComDesconto":"POR 6.599,00",
+    "valorSemDesconto":"R$ 7.299,00",
+    "valorComDesconto":"POR R$6.599,00",
     "tipoEntrega": "frete GRÁTIS"
     
     },
@@ -23,8 +23,8 @@
     "img": "ip14.jpg",
     "nome": "Apple MacBook Pro",
     "descricao":"O mais rápido que existe",
-    "valorSemDesconto":"38.719,00",
-    "valorComDesconto":"POR 25.599,00",
+    "valorSemDesconto":"R$ 38.719,00",
+    "valorComDesconto":"POR R$ 25.599,00",
     "tipoEntrega":"frete GRÁTIS"
     
     }
