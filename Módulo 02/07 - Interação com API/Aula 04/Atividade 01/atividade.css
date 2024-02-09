@@ -10,15 +10,21 @@ body{
     flex-direction: column;
 }
 
+.card{
+    background-color: rgb(212, 228, 228);
+}
+h2{
+    font-style: italic;
+}
 header{
-    background-color: rgb(211, 158, 158);
+    background-color: rgb(216, 172, 172);
     text-align: center;
     padding: 2rem 0;
     width: 100%;
 }
 
 .card{
-    border:2px solid #e46d93;
+    border:2px solid #b85151;
     width: fit-content ;
     display: flex ;
     flex-direction: column;
