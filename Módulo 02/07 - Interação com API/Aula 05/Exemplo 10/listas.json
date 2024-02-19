@@ -2,46 +2,46 @@
     {
         "img": "https://a-static.mlcdn.com.br/800x560/smart-tv-50-4k-uhd-led-semp-rk8600-wi-fi-3-hdmi-1-usb/magazineluiza/235913100/e88de5e73d9391fb931a40a7e00afaa3.jpg",
         "nome": "Smart TV 50” 4K UHD LED ",
-        "valorcomdesconto": 1.899,
-        "valorsemdesconto": 1.999
+        "valorComDesconto": 1.899,
+        "valorSemDesconto": 1.999
     },
 
     {
        
         "img": "https://a-static.mlcdn.com.br/1500x1500/lavadora-de-roupas-automatica-colormaq-15kg/colormaq-lojaoficialdaindustria/7011003/cb541a09b3a6d6db35171a640fd95cce.jpeg",
         "nome": "Lavadora de Roupas Automática ",
-        "valorcomdesconto":1.899,
-        "valorsemdesconto": 1999.00
+        "valorComDesconto":1.899,
+        "valorSemDesconto": 1999.00
     },
     {
         "img": "https://a-static.mlcdn.com.br/800x560/apple-iphone-14-128gb-estelar-61-12mp-ios-5g/magazineluiza/237184100/b208242666e673bb1cfff75f61667947.jpg",
         "nome": "Apple iPhone 14 128GB ",
-        "valorcomdesconto":4.179,
-        "valorsemdesconto":4.643 
+        "valorComDesconto":4.179,
+        "valorSemDesconto":4.643 
     },
     {
         "img": "https://a-static.mlcdn.com.br/1500x1500/guarda-roupa-casal-malibu-6-pt-imbuia-e-off-white-rufato/mobly/ru994cl96wdvmob-555451/eef415b266693f3f23776a5f11b51f2b.jpeg",
         "nome": "Guarda-Roupa Casal Malibu 6 ",
-        "valorcomdesconto":704.88,
-        "valorsemdesconto":783.09 
+        "valorComDesconto":704.88,
+        "valorSemDesconto":783.09 
     },
     {
         "img": "https://a-static.mlcdn.com.br/1500x1500/cama-box-box-colchao-casal-umaflex-de-molas-ensacadas-46cm-de-altura-beta/magazineluiza/229987600/c0ff85b61b024f2d08676ccb19a8eeda.jpg",
         "nome": "Cama Box (Box + Colchão) Casal Umaflex",
-        "valorcomdesconto":799.00,
-        "valorsemdesconto":897.75
+        "valorComDesconto":799.00,
+        "valorSemDesconto":897.75
     },
     {
         "img": "https://a-static.mlcdn.com.br/800x560/skate-eletrico-65-rosa-hoverboardx-smart-balance-bluetooth/megashopping/10829844894/2fd8e7a0b411761094aad1c1d4d79400.jpeg",
         "nome": "Skate Eletrico 6,5 Rosa HoverboardX",
-        "valorcomdesconto":1.079,
-        "valorsemdesconto":1.199 
+        "valorComDesconto":1.079,
+        "valorSemDesconto":1.199 
     },
     {
         "img":"https://a-static.mlcdn.com.br/1500x1500/suporte-para-monitor-articulado-de-mesa-17-ate-27-elg-f160n/magazineluiza/227040300/c1be9cdf6dec0391d3827dbd19afe1c4.jpg",
         "nome":"Suporte para Monitor Articulado de Mesa",
-        "valorcomdesconto":584.91,
-        "valorsemdesconto": 649.90
+        "valorComDesconto":584.91,
+        "valorSemDesconto": 649.90
     }
 ]
     
