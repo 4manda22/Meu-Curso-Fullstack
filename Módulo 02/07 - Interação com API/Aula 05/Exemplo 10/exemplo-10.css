@@ -1,0 +1,17 @@
+
+.card {
+    border: 1px solid #07070767;
+    width: 250px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.651);
+    margin-bottom: 12px;
+    text-align: center;
+  
+  }
+.lista-card{
+    display:flex;
+    flex-wrap: wrap;
+
+
+
+}
