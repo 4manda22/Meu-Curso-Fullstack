@@ -14,6 +14,11 @@ body{
 .lista-card{
     display:flex;
     flex-wrap: wrap;
-    text-decoration:underline rgb(208, 129, 145);
+    text-decoration: underline;
+
+}
+.cor{
+    text-align:center;
+    background-color: burlywood;
 
 }

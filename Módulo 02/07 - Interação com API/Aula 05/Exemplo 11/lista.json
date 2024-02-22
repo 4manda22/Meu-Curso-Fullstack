@@ -55,6 +55,22 @@
         "descricao": "divertido",
         "valorComDesconto":1079,
         "valorSemDesconto":1199 
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/51u4V0E5fxL._AC_SX522_.jpg",
+        "nome": "Secador de Cabelo Profissional 1",
+        "descricao": "Secador potente para resultados incríveis",
+        "valorSemDesconto": 80.00,
+        "valorComDesconto": 69.99,
+        "tipoEntrega": "Frete GRÁTIS"
+    },
+    {
+        "img": "https://down-br.img.susercontent.com/file/b144b8e477cbdcdcf2d9e50350249f40",
+        "nome": "Perfume Elegance",
+        "descricao": "Fragrância sofisticada e duradoura",
+        "valorSemDesconto": 120.00,
+        "valorComDesconto": 99.99,
+        "tipoEntrega": "RECEBA HOJE"
     }
 
 
