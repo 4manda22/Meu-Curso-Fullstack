@@ -13,7 +13,7 @@ async function procura(){
                 <p> ${produto.descricao} </p>
                 <div> 
                     <span> R$ $ ${(produto.valorComDesconto).toFixed(2).replace("." , ",")} </span>
-                    <span> R$ $ ${(produto.valorSemDesconto).toFixed(2).replace("." , ",")}} </span>
+                    <span> R$ $ ${(produto.valorSemDesconto).toFixed(2).replace("." , ",")} </span>
                 </div>
             </div>   
             
