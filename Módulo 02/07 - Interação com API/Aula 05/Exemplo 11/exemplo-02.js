@@ -7,7 +7,7 @@ async function procura(){
     for(let produto of produtos){
         listaDiv.innerHTML+= `
             <div class= "card">
-                <img src="${produto.img}"
+                <img  src="${produto.img}"
                     width= "250" height= "250px">
                 <h3> ${produto.nome} </h3>
                 <p> ${produto.descricao} </p>
