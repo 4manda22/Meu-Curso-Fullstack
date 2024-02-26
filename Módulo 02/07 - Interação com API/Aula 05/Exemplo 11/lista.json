@@ -36,18 +36,18 @@
         "valorSemDesconto":4643 
     },
     {
-        "img": "https://a-static.mlcdn.com.br/1500x1500/guarda-roupa-casal-malibu-6-pt-imbuia-e-off-white-rufato/mobly/ru994cl96wdvmob-555451/eef415b266693f3f23776a5f11b51f2b.jpeg",
-        "nome": "Guarda-Roupa Casal Malibu 6 ",
-        "descricao": "tamanho top",
-        "valorComDesconto":704.88,
-        "valorSemDesconto":783.09 
+        "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/400251-1200-1200/caixa-de-som-jbl-boombox-3-bluetooth-preta-52207-1.jpg?v=638017196953430000",
+        "nome": "Caixa de Som JBL Boombox 3",
+        "descricao": "Bluetooth Preta",
+        "valorComDesconto": 2399,
+        "valorSemDesconto": 239
     },
     {
-        "img": "https://a-static.mlcdn.com.br/1500x1500/cama-box-box-colchao-casal-umaflex-de-molas-ensacadas-46cm-de-altura-beta/magazineluiza/229987600/c0ff85b61b024f2d08676ccb19a8eeda.jpg",
-        "nome": "Cama Box (Box + Colchão) Casal Umaflex",
-        "descricao": "fofinha",
-        "valorComDesconto":799.00,
-        "valorSemDesconto":897.75
+        "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/409305-1200-1200/Padrao-de-imagem-1000x1000px-PX-GAMER.jpg?v=638143035343270000",
+        "nome": "PC Gamer Intel® Core™",
+        "descricao": "I5, 8GB, SSD 240GB | Goldentec",
+        "valorComDesconto":1329,
+        "valorSemDesconto":139
     },
     {
         "img": "https://a-static.mlcdn.com.br/800x560/skate-eletrico-65-rosa-hoverboardx-smart-balance-bluetooth/megashopping/10829844894/2fd8e7a0b411761094aad1c1d4d79400.jpeg",
@@ -61,16 +61,29 @@
         "nome": "Secador de Cabelo Profissional 1",
         "descricao": "Secador potente para resultados incríveis",
         "valorSemDesconto": 80.00,
-        "valorComDesconto": 69.99,
-        "tipoEntrega": "Frete GRÁTIS"
+        "valorComDesconto": 69.99
+       
     },
     {
-        "img": "https://down-br.img.susercontent.com/file/b144b8e477cbdcdcf2d9e50350249f40",
-        "nome": "Perfume Elegance",
-        "descricao": "Fragrância sofisticada e duradoura",
-        "valorSemDesconto": 120.00,
-        "valorComDesconto": 99.99,
-        "tipoEntrega": "RECEBA HOJE"
+        "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/414609-1200-1200/impressora-multifuncional-epson-ecotank-l3250-001.jpg?v=638234683329700000",
+        "nome": "Impressora Multifuncional Epson",
+        "descricao": "Ecotank L3250, Colorida, Wi-Fi, Conexão USB, Bivolt - C11CJ67303",
+        "valorSemDesconto":169,
+        "valorComDesconto":129
+    },
+    {
+        "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/415825-1200-1200/tablet-gt-tab10-3g-2gb-32gb-10-hd-gt-goldentec-01-min.jpg?v=638264972713570000",
+        "nome": "Tablet Goldentec Tab10 3G",
+        "descricao": "2GB + 32GB 10",
+        "valorSemDesconto":759,
+        "valorComDesconto":79
+    },
+    {
+        "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/421763-1200-1200/teclado-gamer-mecanico-redragon-lakshmi-switch-brown-01-min.jpg?v=638373021023430000",
+        "nome": "Teclado Gamer Mecânico",
+        "descricao": "Redragon Lakshmi Rainbow Switch Brown - K606R",
+        "valorSemDesconto":161,
+        "valorComDesconto":56
     }
 
 
