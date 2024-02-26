@@ -19,6 +19,14 @@ async function busca(){
         `
 
     }
+
+    let elementosCards = document.querySelector(".card")
+    for(let card of elementosCards){
+        card.addEventListener("click", clicou)
+    } 
 }
 
 busca()
+    function clicou(){
+        alert("clicou aqui")
+    }
