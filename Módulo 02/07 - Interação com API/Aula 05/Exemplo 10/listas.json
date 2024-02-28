@@ -5,7 +5,7 @@
         "nome": "Smart TV 50” 4K UHD LED ",
         "descricao":"top de linha",
         "valorComDesconto": 1899,
-        "valorSemDesconto": 1999
+        "valorSemDesconto": 1999.00
     },
 
     {
@@ -14,7 +14,7 @@
         "nome": "Lavadora de Roupas Automática ",
         "descricao": "a melhor da loja",
         "valorComDesconto":1989,
-        "valorSemDesconto":1770
+        "valorSemDesconto":1770.00
     },
     {   
         "id": 3,
@@ -22,7 +22,7 @@
         "nome": "Apple iPhone 14 128GB ",
         "descricao": "ultima linha",
         "valorComDesconto":4179,
-        "valorSemDesconto":4643 
+        "valorSemDesconto":4643.00 
     },
     {
         "id": 4,
@@ -38,7 +38,7 @@
         "nome": "Skate Eletrico 6,5 Rosa HoverboardX",
         "descricao": "divertido",
         "valorComDesconto":1079,
-        "valorSemDesconto":1199 
+        "valorSemDesconto":1199.00
     },
     {
         "id": 6,
