@@ -6,7 +6,7 @@ async function procura(){
 
     for(let produto of produtos){
         listaDiv.innerHTML+= `
-            <div class= "card">
+            <div class= "card" data-id= ${produto.id}">
                 <img  src="${produto.img}"
                     width= "250" height= "250px">
                 <h3> ${produto.nome} </h3>
@@ -21,10 +21,6 @@ async function procura(){
         
     }   
 
-    let elementosCards = document.querySelectorAll(".card")
-    for(let card of elementosCards){
-        card.addEventListener("click", clicou)
-    } 
 
     
 }       
@@ -32,11 +28,6 @@ procura()
 
 busca()
 
-function clicou(){
-    let produtoId = this.getAttribute("data-id")
-    window.location.href = "detalhes.html?=" +  produtoId
-    
-}
    
 
   
