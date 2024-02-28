@@ -37,8 +37,9 @@ async function busca(){
 busca()
 
 function cliquei(){
-    let elementosID = this.getAttribute("data-id")
-    (window.location.href)= "detalhes.html"
+    let elementoID = this.getAttribute("data-id")
+    window.location.href= "detalhes.html?id=" + elementoID
     
 }
+
 
