@@ -19,11 +19,24 @@ async function procura(){
             
         `
         
-    }    
+    }   
+
+    let elementosCards = document.querySelectorAll(".card")
+    for(let card of elementosCards){
+        card.addEventListener("click", clicou)
+    } 
 
     
 }       
 procura()
+
+busca()
+
+function clicou(){
+    let produtoId = this.getAttribute("data-id")
+    window.location.href = "detalhes.html?=" +  produtoId
+    
+}
    
 
   
