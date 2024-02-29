@@ -4,8 +4,8 @@
         "img": "https://a-static.mlcdn.com.br/800x560/smart-tv-50-4k-uhd-led-semp-rk8600-wi-fi-3-hdmi-1-usb/magazineluiza/235913100/e88de5e73d9391fb931a40a7e00afaa3.jpg",
         "nome": "Smart TV 50” 4K UHD LED ",
         "descricao":"top de linha",
-        "valorComDesconto": 1899,
-        "valorSemDesconto": 1999.00
+        "valorComDesconto": 1699,
+        "valorSemDesconto": 1999
     },
 
     {
@@ -13,7 +13,7 @@
         "img": "https://a-static.mlcdn.com.br/1500x1500/lavadora-de-roupas-automatica-colormaq-15kg/colormaq-lojaoficialdaindustria/7011003/cb541a09b3a6d6db35171a640fd95cce.jpeg",
         "nome": "Lavadora de Roupas Automática ",
         "descricao": "a melhor da loja",
-        "valorComDesconto":1989,
+        "valorComDesconto":1500,
         "valorSemDesconto":1770.00
     },
     {   
@@ -47,6 +47,56 @@
         "descricao": "pratico e divertido",
         "valorComDesconto":584.91,
         "valorSemDesconto":649.90
+    },
+    {   
+        "id": 7,
+        "img": "https://imgs.casasbahia.com.br/55065674/1g.png",
+        "nome":"Console PlayStation 5 Slim",
+        "descricao":"PlayStation 5 Edição Digital",
+        "valorComDesconto":3500,
+        "valorSemDesconto":3700
+    },
+    {   
+        
+    "id": 9,
+    "img": "https://m.media-amazon.com/images/I/51u4V0E5fxL._AC_SX522_.jpg",
+    "nome": "Secador de Cabelo Profissional 1",
+    "descricao": "Secador potente para resultados incríveis",
+    "valorSemDesconto": 80.00,
+    "valorComDesconto": 69.99
+   
+},
+    {   
+        "id": 11,
+        "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/415825-1200-1200/tablet-gt-tab10-3g-2gb-32gb-10-hd-gt-goldentec-01-min.jpg?v=638264972713570000",
+        "nome": "Tablet Goldentec Tab10 3G",
+        "descricao": "2GB + 32GB 10",
+        "valorSemDesconto":1400,
+        "valorComDesconto":980
+    },
+    {
+        "id": 12,
+        "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/421763-1200-1200/teclado-gamer-mecanico-redragon-lakshmi-switch-brown-01-min.jpg?v=638373021023430000",
+        "nome": "Teclado Gamer Mecânico",
+        "descricao": "Redragon Lakshmi Rainbow Switch Brown - K606R",
+        "valorSemDesconto":161,
+        "valorComDesconto":140
+    },
+    {   
+        "id": 6,
+        "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/400251-1200-1200/caixa-de-som-jbl-boombox-3-bluetooth-preta-52207-1.jpg?v=638017196953430000",
+        "nome": "Caixa de Som JBL Boombox 3",
+        "descricao": "Bluetooth Preta",
+        "valorComDesconto": 2260,
+        "valorSemDesconto": 2390
+    },
+    {   
+        "id": 3,
+        "img": "https://imgs.casasbahia.com.br/1515740092/1xg.jpg",
+        "nome":"Controle sem fio",
+        "descricao":"DualSense Sony - PS5",
+        "valorComDesconto":200,
+        "valorSemDesconto":400
     }
 ]
     
