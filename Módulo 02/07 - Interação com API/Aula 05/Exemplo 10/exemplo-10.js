@@ -20,13 +20,25 @@ async function busca(){
                 </div>   
              </div>       
                    
-                
-               
-                
-           
-        `
+        `         
+    } 
+    
+    let elementosCards = document.querySelectorAll(".card")
 
+    for(let card of elementosCards){
+        card.addEventListener("click", cliquei)
     }
+                
+}           
+  
+busca()
+
+function cliquei(){
+    let elementoID = this.getAttribute("data-id")
+    window.location.href = "detalhes.html" 
 }
 
-busca()
+
+    
+
+
