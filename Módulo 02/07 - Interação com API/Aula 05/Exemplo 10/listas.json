@@ -65,7 +65,7 @@
     "valorSemDesconto": 80.00,
     "valorComDesconto": 69.99
    
-},
+    },
     {   
         "id": 11,
         "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/415825-1200-1200/tablet-gt-tab10-3g-2gb-32gb-10-hd-gt-goldentec-01-min.jpg?v=638264972713570000",
@@ -83,7 +83,7 @@
         "valorComDesconto":140
     },
     {   
-        "id": 6,
+        "id": 13,
         "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/400251-1200-1200/caixa-de-som-jbl-boombox-3-bluetooth-preta-52207-1.jpg?v=638017196953430000",
         "nome": "Caixa de Som JBL Boombox 3",
         "descricao": "Bluetooth Preta",
@@ -91,7 +91,7 @@
         "valorSemDesconto": 2390
     },
     {   
-        "id": 3,
+        "id": 14,
         "img": "https://imgs.casasbahia.com.br/1515740092/1xg.jpg",
         "nome":"Controle sem fio",
         "descricao":"DualSense Sony - PS5",
