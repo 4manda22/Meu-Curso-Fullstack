@@ -1,19 +1,22 @@
 [
     {   
+        "id": 1,
         "img": "https://imgs.casasbahia.com.br/55063456/1g.jpg",
         "nome":"Smart TV 83' 4K LG",
         "descricao":"ThinQ AI, Alexa, Google, 4 HDMIs",
         "valorComDesconto":4640,
         "valorSemDesconto":496
     },
-    {
+    {   
+        "id": 2,
         "img": "https://imgs.casasbahia.com.br/55065674/1g.png",
         "nome":"Console PlayStation 5 Slim",
         "descricao":"PlayStation 5 Edição Digital",
         "valorComDesconto":3799,
         "valorSemDesconto":3090
     },
-    {
+    {   
+        "id": 3,
         "img": "https://imgs.casasbahia.com.br/1515740092/1xg.jpg",
         "nome":"Controle sem fio",
         "descricao":"DualSense Sony - PS5",
@@ -22,41 +25,48 @@
     },
     {
        
+        "id": 4,
         "img": "https://a-static.mlcdn.com.br/1500x1500/lavadora-de-roupas-automatica-colormaq-15kg/colormaq-lojaoficialdaindustria/7011003/cb541a09b3a6d6db35171a640fd95cce.jpeg",
         "nome": "Lavadora de Roupas Automática ",
         "descricao": "a melhor da loja",
         "valorComDesconto":1989,
         "valorSemDesconto":1775
     },
-    {
+    {   
+        "id": 4,
         "img": "https://a-static.mlcdn.com.br/800x560/apple-iphone-14-128gb-estelar-61-12mp-ios-5g/magazineluiza/237184100/b208242666e673bb1cfff75f61667947.jpg",
         "nome": "Apple iPhone 14 128GB ",
         "descricao": "ultima linha",
         "valorComDesconto":4179,
         "valorSemDesconto":4643 
     },
-    {
+    {   
+        "id": 5,
         "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/400251-1200-1200/caixa-de-som-jbl-boombox-3-bluetooth-preta-52207-1.jpg?v=638017196953430000",
         "nome": "Caixa de Som JBL Boombox 3",
         "descricao": "Bluetooth Preta",
         "valorComDesconto": 2399,
         "valorSemDesconto": 239
     },
-    {
+    {   
+        "id": 6,
         "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/409305-1200-1200/Padrao-de-imagem-1000x1000px-PX-GAMER.jpg?v=638143035343270000",
         "nome": "PC Gamer Intel® Core™",
         "descricao": "I5, 8GB, SSD 240GB | Goldentec",
         "valorComDesconto":1329,
         "valorSemDesconto":139
     },
-    {
+    {   
+        "id": 7,
         "img": "https://a-static.mlcdn.com.br/800x560/skate-eletrico-65-rosa-hoverboardx-smart-balance-bluetooth/megashopping/10829844894/2fd8e7a0b411761094aad1c1d4d79400.jpeg",
         "nome": "Skate Eletrico 6,5 Rosa HoverboardX",
         "descricao": "divertido",
         "valorComDesconto":1079,
         "valorSemDesconto":1199 
     },
-    {
+    {   
+        
+        "id": 8,
         "img": "https://m.media-amazon.com/images/I/51u4V0E5fxL._AC_SX522_.jpg",
         "nome": "Secador de Cabelo Profissional 1",
         "descricao": "Secador potente para resultados incríveis",
@@ -64,14 +74,16 @@
         "valorComDesconto": 69.99
        
     },
-    {
+    {   
+        "id": 8,
         "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/414609-1200-1200/impressora-multifuncional-epson-ecotank-l3250-001.jpg?v=638234683329700000",
         "nome": "Impressora Multifuncional Epson",
         "descricao": "Ecotank L3250, Colorida, Wi-Fi, Conexão USB, Bivolt - C11CJ67303",
         "valorSemDesconto":169,
         "valorComDesconto":129
     },
-    {
+    {   
+        "id": 9,
         "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/415825-1200-1200/tablet-gt-tab10-3g-2gb-32gb-10-hd-gt-goldentec-01-min.jpg?v=638264972713570000",
         "nome": "Tablet Goldentec Tab10 3G",
         "descricao": "2GB + 32GB 10",
@@ -79,6 +91,7 @@
         "valorComDesconto":79
     },
     {
+        "id": 10,
         "img": "https://lojaibyte.vteximg.com.br/arquivos/ids/421763-1200-1200/teclado-gamer-mecanico-redragon-lakshmi-switch-brown-01-min.jpg?v=638373021023430000",
         "nome": "Teclado Gamer Mecânico",
         "descricao": "Redragon Lakshmi Rainbow Switch Brown - K606R",
