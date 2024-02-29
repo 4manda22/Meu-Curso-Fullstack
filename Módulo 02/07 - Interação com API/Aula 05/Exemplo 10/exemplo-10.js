@@ -35,7 +35,7 @@ busca()
 
 function cliquei(){
     let elementoID = this.getAttribute("data-id")
-    window.location.href = "detalhes.html" 
+    window.location.href = "detalhes.html?AmandaLinda=" + elementoID
 }
 
 
