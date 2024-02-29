@@ -27,6 +27,19 @@ async function busca(){
         `
 
     }
+
+    let elementosCards = document.querySelectorAll(".card")
+    for(let card of elementosCards){
+        card.addEventListener("click", cliquei)
+    }
 }
 
 busca()
+
+function cliquei(){
+    let elementoID = this.getAttribute("data-id")
+    window.location.href= "detalhes.html?id=" + elementoID
+    
+}
+
+
