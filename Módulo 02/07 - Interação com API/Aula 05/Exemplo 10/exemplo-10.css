@@ -20,6 +20,10 @@ body{
   justify-content: space-around;
   cursor: pointer;
 }
+.semDesconto{
+  color: brown;
+  text-decoration: line-through;
+}
 .cor{
   text-align:center;
   background-color: burlywood;
