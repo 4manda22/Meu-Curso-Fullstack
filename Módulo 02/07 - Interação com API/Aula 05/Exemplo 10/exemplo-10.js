@@ -12,7 +12,7 @@ async function busca(){
                 </div>
                 <div class= "textos">
                      <h3> ${produto.nome} </h3>
-                    <p> ${produto.descricao} </p>
+                     <p> ${produto.descricao} </p>
                     </div>      
                         <span class= "comDesconto"> R$ ${(produto.valorComDesconto).toFixed(2).replace("." , ",")} </span>
                         <span class= "semDesconto"> R$ ${(produto.valorSemDesconto).toFixed(2).replace("." , ",")} </span>
@@ -38,6 +38,7 @@ function cliquei(){
     window.location.href = "detalhes.html?AmandaLinda=" + elementoID
 }
 
+cliquei()
 
     
 

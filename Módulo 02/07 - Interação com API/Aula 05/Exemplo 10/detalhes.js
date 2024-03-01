@@ -16,6 +16,12 @@ async function procurar(){
 
     document.body.innerHTML = `
         <h1>${produtos[indiceProd].nome}</h1>
+        <h2>${produtos[indiceProd].descricao}</h2>
+        <h3> ${produtos[indiceProd].valorComDesconto}</h3>
+        <h3> ${produtos[indiceProd].valorSemDesconto}</h3>
+
+
+
     `
 }
 

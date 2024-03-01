@@ -7,15 +7,6 @@
         "valorComDesconto": 1699,
         "valorSemDesconto": 1999
     },
-
-    {
-        "id": 2,
-        "img": "https://a-static.mlcdn.com.br/1500x1500/lavadora-de-roupas-automatica-colormaq-15kg/colormaq-lojaoficialdaindustria/7011003/cb541a09b3a6d6db35171a640fd95cce.jpeg",
-        "nome": "Lavadora de Roupas Automática ",
-        "descricao": "a melhor da loja",
-        "valorComDesconto":1500,
-        "valorSemDesconto":1770.00
-    },
     {
         "id": 3,
         "img": "https://a-static.mlcdn.com.br/800x560/apple-iphone-14-128gb-estelar-61-12mp-ios-5g/magazineluiza/237184100/b208242666e673bb1cfff75f61667947.jpg",
@@ -23,14 +14,6 @@
         "descricao": "ultima linha",
         "valorComDesconto":4179,
         "valorSemDesconto":4643.00 
-    },
-    {
-        "id": 4,
-        "img": "https://a-static.mlcdn.com.br/1500x1500/guarda-roupa-casal-malibu-6-pt-imbuia-e-off-white-rufato/mobly/ru994cl96wdvmob-555451/eef415b266693f3f23776a5f11b51f2b.jpeg",
-        "nome": "Guarda-Roupa Casal Malibu 6 ",
-        "descricao": "tamanho top",
-        "valorComDesconto":704.88,
-        "valorSemDesconto":783.09 
     },
     {
         "id": 5,

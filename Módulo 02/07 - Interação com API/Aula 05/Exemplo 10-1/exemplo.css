@@ -23,6 +23,9 @@ body{
   color: brown;
   text-decoration: line-through;
 }
+.comDesconto{
+  text-decoration: line-through;
+}
 .cor{
   text-align:center;
   background-color: burlywood;

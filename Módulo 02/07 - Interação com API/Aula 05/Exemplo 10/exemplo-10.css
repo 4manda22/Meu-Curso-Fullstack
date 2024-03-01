@@ -1,14 +1,14 @@
 body{
   background-color: rgba(151, 132, 108, 0.369);
+
 }
+
 
 .lista-card{
   display:flex;
   flex-wrap: wrap;
   color: rgb(76, 54, 54);
-  
-
-}
+}  
 .card{
   border: 1px solid rgba(79, 66, 66, 0.205);
   width: 250px;
@@ -20,17 +20,32 @@ body{
   justify-content: space-around;
   cursor: pointer;
 }
+
 .semDesconto{
-  color: brown;
+  color: rgb(152, 56, 56);
   text-decoration: line-through;
 }
-.cor{
-  text-align:center;
-  background-color: burlywood;
+.comDesconto{
+  text-decoration:underline;
+}
+.textos{
+  color: rgb(19, 20, 20);
+}
+.grupo-img{
+  width: 250px;
+  height: 150px;
+  display: flex;
+  flex-direction:row ;
+  justify-content: right;
+}
 
+.cor{
+
+  background-color: burlywood;
 }
 footer{
   text-align: center;
   border: 2px;
   background-color: rgb(227, 184, 129);
 }
+
