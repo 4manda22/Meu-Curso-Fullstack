@@ -35,12 +35,12 @@ async function procurar(){
     
     let miniCards= document.querySelectorAll(miniatura)
     for(let card of miniCards){
-        card.addEventListener("mouseover", alteraimg)
+        card.addEventListener("mouseover", alteraImg)
     }
 
 }   
 
-function alteraimg(){
+function alteraImg(){
     let frame = document.getElementById("img-frame")
     frame.src = this.getAttribute("src")
 
