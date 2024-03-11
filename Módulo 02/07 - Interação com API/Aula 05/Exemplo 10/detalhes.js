@@ -16,9 +16,11 @@ async function procurar(){
 
     document.getElementById("detalhes").innerHTML = `
         <h1>${produtos[indiceProd].nome}</h1>
-        <h2>${produtos[indiceProd].descricao}</h2>
-        <h3> ${produtos[indiceProd].valorComDesconto}</h3>
-        <h3> ${produtos[indiceProd].valorSemDesconto}</h3>
+        <img src="${produtos[indice].img[0]} "height= "300" width="auto" style
+        <p>${produtos[indiceProd].descricao}</p>
+        <div class = "grupovalores"> 
+          <span class="comDesconto"> ${(produtos[indiceProd].valorComDesconto)}</span>
+          <spa class="semDesconto"> ${(produtos[indiceProd].valorSemDesconto)}</span>
 
 
 
