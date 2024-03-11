@@ -17,7 +17,7 @@ async function procurar(){
   
     document.getElementById("detalhes").innerHTML = `
         <h1>${produtos[indiceProd].nome}</h1>
-        <img src="${produtos[indiceProd].img[0]}" height="250" width="auto">
+        <img src="${produtos[indiceProd].img[0]}" height="350" width="auto">
         <div class="mini-img" id="mini-img">
 
         </div>
@@ -30,7 +30,7 @@ async function procurar(){
     
     let divMini = document.getElementById("mini-img")
     for(let i of produtos[indiceProd].img){
-        divMini.innerHTML += `<img src="${i}">`
+        divMini.innerHTML += `<img src="${i}" height="80" width="80" style="border: 1px solid #000; border-radius: 5px; ">`
     }
     
 }       
